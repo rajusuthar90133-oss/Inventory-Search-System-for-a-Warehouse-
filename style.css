@@ -1,0 +1,15 @@
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+.font-mono {
+  font-family: 'JetBrains Mono', monospace;
+}
+
+.node-transition {
+  transition: all 0.35s ease;
+}
+
+.edge-transition {
+  transition: stroke 0.3s ease;
+}
